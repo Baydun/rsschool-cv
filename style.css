@@ -1,0 +1,42 @@
+aside {
+    background-color: olive;
+    color: black;
+    text-decoration: none;
+    align-self: flex-end;
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-color: beige;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 21px;
+}
+.small-capitals {
+    font-size: 45px;
+    text-align: right;
+}
+.small {
+    font-size: 35px;
+    text-align: right;
+}
+.chapter {
+    font-size: 38px;
+    font-variant: small-caps;
+    background-origin: padding-box;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: olive;
+}
+footer {
+    background-color: olive;
+    font-family: 'Courier New', Courier, monospace;
+}
+.menu {
+    text-decoration: none;
+    color: black;
+}
+.info {
+    color: olive;
+}
+.png {
+    image-rendering: optimizeQuality;
+}
